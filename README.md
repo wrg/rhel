@@ -97,14 +97,14 @@ Todo
 Install
 =======
 
-The easiest installation of csvsplit is done through goinstall.
+The easiest installation of proc is done through goinstall.
 
     goinstall github.com/wrg/rhel
 
 Documentation
 =============
 
-The best way to read the current csvsplit documentation is using
+The best way to read the current proc documentation is using
 godoc.
 
     godoc github.com/wrg/rhel
@@ -113,7 +113,7 @@ Or better yet, you can run a godoc http server.
 
     godoc -http=":6060"
 
-Then go to the url http://localhost:6060/pkg/github.com/wrg/csvsplit/
+Then go to the url http://localhost:6060/pkg/github.com/wrg/rhel/
 
 Copyright & License
 ===================
