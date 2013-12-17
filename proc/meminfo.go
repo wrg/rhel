@@ -5,6 +5,7 @@
 // license that can be found in the LICENSE file.
 
 // This is the default meminfo file, RHEL 6 is assumed.
+
 package proc
 
 const (

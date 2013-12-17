@@ -6,6 +6,7 @@
 
 // This meminfo file contains the appropriate format and struct for RHEL 5.
 // use '-tags rhel5' when building on a RHEL 5 system.
+
 package proc
 
 const (

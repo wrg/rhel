@@ -6,6 +6,7 @@
 
 // This contains the default stat structure and get function for a processes state.
 // RHEL 6 is assumed.
+
 package proc
 
 import (

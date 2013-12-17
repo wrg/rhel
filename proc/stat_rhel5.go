@@ -6,6 +6,7 @@
 
 // This contains the default stat structure and get function for a processes state.
 // This is for RHEL 5, use '-tags rhel5' when building on a RHEL 5 system.
+
 package proc
 
 import (
