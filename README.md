@@ -97,9 +97,9 @@ Todo
 Install
 =======
 
-The easiest installation of proc is done through goinstall.
+The easiest installation of proc is done through go get.
 
-    goinstall github.com/wrg/rhel
+    go get github.com/wrg/rhel
 
 Documentation
 =============
